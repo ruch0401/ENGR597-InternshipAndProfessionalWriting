@@ -1,1 +1,1 @@
-# ruch0401-ENGR597-InternshipAndProfessionalWriting
+# ENGR597: Internship in Engineering with Professional Writing and Communication
